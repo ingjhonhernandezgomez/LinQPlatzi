@@ -1,0 +1,15 @@
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\bin\Debug\net6.0\proyectoLinq.exe
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\bin\Debug\net6.0\proyectoLinq.deps.json
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\bin\Debug\net6.0\proyectoLinq.runtimeconfig.json
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\bin\Debug\net6.0\proyectoLinq.dll
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\bin\Debug\net6.0\proyectoLinq.pdb
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.csproj.AssemblyReference.cache
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.AssemblyInfoInputs.cache
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.AssemblyInfo.cs
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.csproj.CoreCompileInputs.cache
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.dll
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\refint\proyectoLinq.dll
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.pdb
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\proyectoLinq.genruntimeconfig.cache
+C:\Users\jj.hernandez\source\repos\Proyectos\platzi\proyectoLinq\obj\Debug\net6.0\ref\proyectoLinq.dll
